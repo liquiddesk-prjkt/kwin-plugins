@@ -14,7 +14,7 @@ kwin4_effect_squashEnabled=false
 kwin4_effect_translucencyEnabled=false
 magiclampEnabled=false
 
-cutefish_scaleEnabled = true
+cutefish_scaleEnabled = false
 
 
 [Effect-Blur]
